@@ -30,3 +30,11 @@
 **Thoughts** Today I resolve a problem about inheritance in javascript at Hacker Rank (Link bellow), I was doing the 30 days of code challenge, but for work reason I was delayed. So Today I resolved this make me win 30 point there.
 
 **Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-inheritance)
+
+### Day 4
+
+**Today's Progress**: Working on Hacker Rank challenge.
+
+**Thoughts** Today I resolve another problem about abstract's classes in javascript at Hacker Rank (Link bellow). Also I worked a little bit on the Sass course.
+
+**Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-abstract-classes)
