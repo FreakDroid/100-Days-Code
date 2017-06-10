@@ -38,3 +38,19 @@
 **Thoughts** Today I resolve another problem about abstract's classes in javascript at Hacker Rank (Link bellow). Also I worked a little bit on the Sass course. I think tomorrow I gonna share the final work repo that I've worked on.
 
 **Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-abstract-classes)
+
+### Day 5
+
+**Today's Progress**: linked list done!!!.
+
+**Thoughts** Today I resolved a very difficult challenge about linked list (Link bellow) at Hacker Rank, Although it is easy I think the major problem for me was the instruction. Also reading the comments let me that understand more about the recursion, because using this way you can get another possible solution for this challenge. 
+
+**Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-linked-list)
+
+### Day 6
+
+**Today's Progress**: Awesome Sass.
+
+**Thoughts** Today I resolved a challenge at Hacker Rank about handling exceptions, the main problem with this challenge was, I needed to use a hack to make it works with Javascript. Also I continued with the Sass course understanding the different features and the power of mixins, include and import.
+
+**Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
