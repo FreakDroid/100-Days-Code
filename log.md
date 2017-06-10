@@ -35,6 +35,6 @@
 
 **Today's Progress**: Working on Hacker Rank challenge.
 
-**Thoughts** Today I resolve another problem about abstract's classes in javascript at Hacker Rank (Link bellow). Also I worked a little bit on the Sass course.
+**Thoughts** Today I resolve another problem about abstract's classes in javascript at Hacker Rank (Link bellow). Also I worked a little bit on the Sass course. I think tomorrow I gonna share the final work repo that I've worked on.
 
 **Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-abstract-classes)
