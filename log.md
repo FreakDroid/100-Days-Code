@@ -54,3 +54,18 @@
 **Thoughts** Today I resolved a challenge at Hacker Rank about handling exceptions, the main problem with this challenge was, I needed to use a hack to make it works with Javascript. Also I continued with the Sass course understanding the different features and the power of mixins, include and import.
 
 **Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
+
+### Day 7
+
+**Today's Progress**: Break.
+
+**Thoughts** Break.
+
+**Link(s) to work**: Break.
+
+### Day 8
+
+**Today's Progress**: Continue with Sass.
+
+**Thoughts** Continue with the Sass course, working with imports and refactor the code.
+
