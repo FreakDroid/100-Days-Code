@@ -69,3 +69,11 @@
 
 **Thoughts** Continue with the Sass course, working with imports and refactor the code.
 
+### Day 9
+
+**Today's Progress**: Creating a custom mixins in Sass.
+
+**Thoughts** Today I learned about create awesome mixins in Sass, in this case I created one that help me to add fonts to my app through google's font api.
+
+**Link(s) to work**: [Example Code](https://gist.github.com/FreakDroid/a7ec1580b5d9501e9e6c0fadc684f262).
+
