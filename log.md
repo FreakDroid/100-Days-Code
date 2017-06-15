@@ -77,3 +77,11 @@
 
 **Link(s) to work**: [Example Code](https://gist.github.com/FreakDroid/a7ec1580b5d9501e9e6c0fadc684f262).
 
+### Day 10
+
+**Today's Progress**: Creating a media queries in Sass.
+
+**Thoughts** Today I learned about create media queries for different screen sizes.
+
+**Link(s) to work**: Not link today :P.
+
