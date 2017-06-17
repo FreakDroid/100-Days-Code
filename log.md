@@ -85,3 +85,10 @@
 
 **Link(s) to work**: Not link today :P.
 
+### Day 11 - 12
+
+**Today's Progress**: I've worked on functions,  more media queries, and extend other classes in Sass.
+
+**Thoughts** Today I learned about create media queries for different screen sizes more advanced, extend functionality from other classes, and the usefull and powerfull functions.
+
+**Link(s) to work**: Not link today :P
