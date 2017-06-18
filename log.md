@@ -92,3 +92,11 @@
 **Thoughts** Today I learned about create media queries for different screen sizes more advanced, extend functionality from other classes, and the usefull and powerfull functions.
 
 **Link(s) to work**: Not link today :P
+
+### Day 13
+
+**Today's Progress**: I've learned optional classes in Sass, the percentent (extend only class) here and omit code to the pre-processor. 
+
+**Thoughts** The functions above are important to keep your code clean, but the optional class for me, is not relevant because, when I'm not using something on the code I remove it. So we are using a control version, and there we can check the old code.
+
+**Link(s) to work**: Not link today :P
