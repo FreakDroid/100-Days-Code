@@ -100,3 +100,19 @@
 **Thoughts** The functions above are important to keep your code clean, but the optional class for me, is not relevant because, when I'm not using something on the code I remove it. So we are using a control version, and there we can check the old code.
 
 **Link(s) to work**: Not link today :P
+
+### Day 14
+
+**Today's Progress**: Father's days, I was off
+
+**Thoughts** Father's days.
+
+**Link(s) to work**: Father's days
+
+### Day 15
+
+**Today's Progress**: I almost finish the Sass course. 
+
+**Thoughts** Well I arrived to the last part about Sass framework, this part is too long so I think tomorrow I can finish it. After that I will create a tribute page following everything learned on this course.
+
+**Link(s) to work**: Not link today :P
