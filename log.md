@@ -116,3 +116,12 @@
 **Thoughts** Well I arrived to the last part about Sass framework, this part is too long so I think tomorrow I can finish it. After that I will create a tribute page following everything learned on this course.
 
 **Link(s) to work**: Not link today :P
+
+### Day 16
+
+**Today's Progress**: I've finished the Sass course. 
+
+**Thoughts** Today Although I finished the course I've learned about different framework to work with Sass, for instance Compass, Susy and Breakpoint. This tools are pretty awesome because can make you save time a lot with something that are nightmares in the real css world. Also these frameworks have a lot of functions that can make you, as I said your live more easier. Breakpoint is focused on responsive design, Susy is like a bootstrap with the difference that you can customize the column that you will work with.
+And Compass is an extension of Sass (as in Compass requires Sass). It has its own compiler (instead of sass --watch, you use compass watch). It has a large collection of mixins and functions that you'll find incredibly useful (while commonly pointed to for generating vendor prefixed CSS3 properties, it can do things like automatically generate spritemaps and the CSS to go with them). 
+
+**Link(s) to work**: [Demo about Sass app, using Compass and Breakpoint](https://github.com/FreakDroid/Sass-Compass-Breakpoint-Demo).
