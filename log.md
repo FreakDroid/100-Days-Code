@@ -125,3 +125,30 @@
 And Compass is an extension of Sass (as in Compass requires Sass). It has its own compiler (instead of sass --watch, you use compass watch). It has a large collection of mixins and functions that you'll find incredibly useful (while commonly pointed to for generating vendor prefixed CSS3 properties, it can do things like automatically generate spritemaps and the CSS to go with them). 
 
 **Link(s) to work**: [Demo about Sass app, using Compass and Breakpoint](https://github.com/FreakDroid/Sass-Compass-Breakpoint-Demo).
+
+### Day 17 - 18
+
+**Today's Progress**: Welcome back React. 
+
+**Thoughts** Ok, many month ago I started the React-Readux course but I didn't finish it, I decided to conclude. I'm on the last part of this, where I'm trying to understand the redux complex.
+
+**Link(s) to work**: [React Redux ES6](https://github.com/FreakDroid/reactCouseManagerEs6).
+
+
+### Day 19
+
+**Today's Progress**: Off Personal reasons. 
+
+**Thoughts** Off
+
+**Link(s) to work**: Off.
+
+### Day 20
+
+**Today's Progress**: Update the react project with the CRUD actions. 
+
+**Thoughts** Well, today I learned about how to handle the CRUD on react's apps, initially react redux-flux concepts are pretty weird, but after you create an example you will understand it. Next steps on the course are, handle errors and testing on react (This is the most important part for me). Also today I thought about some projects to work, I know Free code camp or others pages offer some ideas to work, but I decided start my own ideas.  
+
+**Link(s) to work**: [React Redux ES6](https://github.com/FreakDroid/reactCouseManagerEs6).
+
+
