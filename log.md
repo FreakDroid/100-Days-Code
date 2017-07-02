@@ -152,3 +152,10 @@ And Compass is an extension of Sass (as in Compass requires Sass). It has its ow
 **Link(s) to work**: [React Redux ES6](https://github.com/FreakDroid/reactCouseManagerEs6).
 
 
+#Days 21-26
+
+**Progress**: Finished React Course, working on other ideas to the react project, started IOS course.
+
+**Thoughts**: Hard week, as I said I finished the react course, but the challenges are the challenges. I spent a lot time trying to moving through the react develop alone, checking my notes and back and forth. In many times I felt lost, mostly when I got an error, but I thought for a second about redux structure and I caught the error. I should add new features to this react app in the next days, but I'm splitting my day time studying IOS. I started a new course about this, so with react I will code on both.
+
+**Link(s) to work**: [React Redux ES6](https://github.com/FreakDroid/reactCouseManagerEs6).
