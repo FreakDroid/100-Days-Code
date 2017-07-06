@@ -159,3 +159,13 @@ And Compass is an extension of Sass (as in Compass requires Sass). It has its ow
 **Thoughts**: Hard week, as I said I finished the react course, but the challenges are the challenges. I spent a lot time trying to moving through the react develop alone, checking my notes and back and forth. In many times I felt lost, mostly when I got an error, but I thought for a second about redux structure and I caught the error. I should add new features to this react app in the next days, but I'm splitting my day time studying IOS. I started a new course about this, so with react I will code on both.
 
 **Link(s) to work**: [React Redux ES6](https://github.com/FreakDroid/reactCouseManagerEs6).
+
+#Days 27-30
+
+**Progress**: Go Swift go!.
+
+**Thoughts**: Ok, as I said in my last update, I've started a Ios/Swift course. After many years trying to learn this, finally I'm in. The course is pretty interesting, the author goes slow letting to the student follow the different instructions. the only problem that I've figured until now, is that accidentally deleted the Main Storyboard and I spent a couple of hours trying to recovery. Also I created a calculator but I haven't pushed yet to github the reason is that I will improve this.
+
+About React, I completed the delete Author, I think I learned a lot trying to achieve this. Now I need to replicate this to Course, and try to complete others small challenges that the Course's author recommend. 
+
+**Link(s) to work**: No link today.
